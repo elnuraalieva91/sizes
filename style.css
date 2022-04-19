@@ -1,0 +1,20 @@
+.pxs{
+    background-color: blueviolet;
+    width:160px;
+    font-size: 16px;
+}
+.rems{
+    background-color: rgb(226, 125, 43);
+    width:10rem;
+    font-size:  1rem;
+}
+.percents{
+    background-color: cornflowerblue;
+    width: 30%;
+    font-size: 100%;
+}
+.vhs{
+    background-color: rgb(201, 243, 204);
+    width: 20vh;
+    font-size: 2vh;
+}
